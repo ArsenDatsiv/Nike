@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html,
 body,
 div,
@@ -87,6 +88,13 @@ ul {
 }
 a {
   color: inherit;
+=======
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+>>>>>>> 853c8d078069d7172e745d22cba2036816167a8b
   text-decoration: none;
 }
 h1,
@@ -98,3 +106,13 @@ h6 {
   font-size: inherit;
   font-weight: inherit;
 }
+<<<<<<< HEAD
+=======
+ul {
+  list-style: none;
+}
+button,
+input {
+  border: none;
+}
+>>>>>>> 853c8d078069d7172e745d22cba2036816167a8b
